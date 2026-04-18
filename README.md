@@ -9,9 +9,9 @@
 | Dataset ID | `107133` |
 | Location | Arlington Heights |
 | Category | Restaurants |
-| Full dataset size | 34 records |
-| Free sample size | 3 records (8.82%) |
-| Last export | 2026-04-07T13:47:13.907782+00:00 |
+| Full dataset size | 35 records |
+| Free sample size | 3 records (8.57%) |
+| Last export | 2026-04-14T20:56:17.983845+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-arlington-heights-illinois-us-sample-107133/releases/download/sample-latest/beamstation_107133_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
