@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Arlington Heights, Illinois. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Arlington Heights, Illinois, US",
-  "export_job_id": "cf185d18-a6b2-4260-bb3b-4ccb3322888d",
+  "export_job_id": "8069075e-a239-4cc5-95fb-c415e5ccba99",
   "github_org": "Beamstation-Datasets",
   "id_short": 107133,
   "location_name": "Arlington Heights",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/107133/beamstation_107133_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_pct": 8.57,
   "sample_records": 3,
-  "sample_sha256": "60c03641b5774fa8091fcb4f857563eb8c51ba8b88ea5ce21c3118d30873b8de",
-  "sample_size_bytes": 20127,
+  "sample_sha256": "49837897ed8633788a900ac82d467911bdbd00034cb7c3a304e2e80bf713b46e",
+  "sample_size_bytes": 24221,
   "total_records": 35,
-  "updated_at": "2026-04-14T20:56:17.983845+00:00"
+  "updated_at": "2026-04-21T23:18:00.038770+00:00"
 }
