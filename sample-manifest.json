@@ -1,12 +1,12 @@
 {
-  "export_job_id": "cc317365-06dc-4ae0-9e40-156801c0b96c",
+  "export_job_id": "b4b7d854-002e-45e3-ba90-ad421f8f0690",
   "id_short": 107133,
-  "published_at": "2026-04-29T07:19:27Z",
+  "published_at": "2026-05-09T07:03:36Z",
   "repo_name": "all-restaurants-in-arlington-heights-illinois-us-sample-107133",
   "sample_asset_name": "beamstation_107133_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/107133/beamstation_107133_restaurants-us-il_SAMPLE_DIST.csv",
-  "sample_records": 2,
-  "sample_sha256": "e46ee2d69076959a9207cf9581b017e585a50abceaf4d0c04e17d71dd3bb5cbd",
-  "sample_size_bytes": 23201,
-  "total_records": 21
+  "sample_records": 4,
+  "sample_sha256": "456f1046300841f215c8bda7ed9abef95da7081780af113658e3f3d2a441e8c4",
+  "sample_size_bytes": 31229,
+  "total_records": 40
 }
